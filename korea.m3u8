@@ -1,8 +1,8 @@
 #EXTM3U
-KBS1,https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUzOTY4NzMsInBhdGgiOiIvbzIifQ.QxYroi0L9bQ5Nv4tbCqmifW5F-MX-bNA0pEyoZltR20
-KBS2,https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUzOTY4ODQsInBhdGgiOiIvbzIifQ.kb3ww2I2Fw0HnAlS1EnL6xtP1nhkyRrZp6hdkehHG5c
+KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
+KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 SBS,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-MBC,https://tving-live-o2-ktcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/c5baa3bc5be016705506b3245cbf0289/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1Mzk2ODk2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=WKD8iMum0RVuupgleog1c1wiP08H9WLimvXokwkfYyh8ogyut8jkq0MmaEoyK0X2kup8-04Xl3Vijp7xGLApayi8tLawPLoUstbugvapruj68RlZ7s3mbI0uL2VWKlbawJdFcTWffmmbr78pSQ0MoSatpbmrZS0-lQ7maFYdcl61tcnIHMPLbeuum~i4SOIHtsereBntO404MndlgspiwIxhCN3J8nIOj4uRIb~WUDihtc7X7gTraifyjyJHCivFn1QPcrcRrhKWWzpQzfRLi3giu4hJgb3eFfRD~bJt1dF65ai0MPyFVA-JoqQAg~sS23nQQ9HbCtls5coajBk2NQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+MBC,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
 KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
 KBSLife,http://koreatv.dothome.co.kr/kbslife.php
